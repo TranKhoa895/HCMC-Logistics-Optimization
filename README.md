@@ -1,6 +1,7 @@
 # 🚚 HCMC Urban Logistics & Route Optimization System
 
 Hệ thống Dự báo Thời gian Giao hàng (ETA) & Tối ưu hóa Lộ trình Giao hàng đa điểm (CVRP) thời gian thực cho TP.HCM: Tích hợp mô hình Machine Learning (LightGBM + SHAP), Thuật toán Tối ưu hóa (Google OR-Tools), Định vị Địa lý 2 Lớp (Manual Coordinates & Reverse Geocoding), REST API Backend (FastAPI), Prometheus Monitoring và Giao diện Dashboard Quản trị (Streamlit).
+
 ---
 
 ## 📌 1. Bối Cảnh Kinh Doanh (Business Context) & Mục Tiêu
